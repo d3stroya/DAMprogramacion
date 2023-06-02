@@ -1,6 +1,3 @@
-# DAMprogramacion
-Apuntes del módulo Programación para el CFGS DAM
-
 # Operación Ada
 La Policía está tras la pista de un grupo terrorista ("Liberación") que amenaza con atentar en nuestro país. Los servicios de seguridad franceses han dado el aviso después de verles cruzar la frontera. El ataque podría ser en cualquier parte del mundo, pero la información compartida es que suelen asentarse durante un tiempo en el lugar donde atacan. Nunca han preparado el ataque en un lugar y lo han ejecutado en otro. Su debilidad es que se creen inmunes. Hasta ahora lo han sido, pero eso debe cambiar.
 
